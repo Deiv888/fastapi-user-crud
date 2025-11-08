@@ -1,4 +1,10 @@
 # FastAPI CRUD User Management
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.111-green.svg)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue.svg)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-orange.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 Un progetto backend CRUD realizzato con **FastAPI**, **SQLAlchemy** e **Pydantic**, con connessione a **PostgreSQL**.
 
