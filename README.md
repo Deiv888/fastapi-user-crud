@@ -7,6 +7,12 @@
 
 
 Un progetto backend CRUD realizzato con **FastAPI**, **SQLAlchemy** e **Pydantic**, con connessione a **PostgreSQL**.
+## 🎓 Obiettivi del progetto
+Questo progetto è stato sviluppato come esercizio di backend development con FastAPI.
+L’obiettivo principale è comprendere il funzionamento di un’architettura CRUD moderna,
+utilizzando un ORM (SQLAlchemy) per la gestione del database e Pydantic per la validazione dei dati.
+Il progetto è una base solida per future implementazioni di autenticazione, sicurezza e interfacce utente.
+
 
 ## 🚀 Funzionalità
 - Creazione, lettura, aggiornamento ed eliminazione utenti (CRUD)
